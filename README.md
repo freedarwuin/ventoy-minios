@@ -24,7 +24,7 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 ## 📁 Plantilla base + scripts Ventoy
 
 🔧 Descargar plantilla base con estructura, carpetas y scripts:
-- [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
+- [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
 
 ![img.png](img.png)
 

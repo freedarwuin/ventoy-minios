@@ -17,7 +17,7 @@ Extraé y ejecutá `Ventoy2Disk.exe`.
 
 ## 3. Copiá la estructura de carpetas
 
-- Descargá [Ventoy.rar](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
+- Descargá [Ventoy.rar](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
 - Extraelo y copiá todo al USB.
 
 ## 4. Descargá y descomprimí las ISOs

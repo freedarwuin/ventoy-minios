@@ -28,10 +28,11 @@ Incluye:
 ## 🔧 Otros recursos útiles
 
 - [Plantilla base Ventoy](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file) *(pedir clave por WhatsApp)*
+![img.png](img.png)
 - [Driver Pack](https://www.mediafire.com/file/38lsytdfv4mlsei/Driver_pack.rar/file)
 - [Softpack 2018 Lite 18.0.1](https://www.mediafire.com/file/kaxkhlb6n6be7p3/Softpack2018_lite_18.0.1.rar/file)
 - [MobaLiveCD v2.1 - Emulador para probar tu USB sin reiniciar](https://www.mediafire.com/file/u104n5fuhs3cx2s/MobaLiveCD_v2.1.exe/file)
-![img.png](img.png)
+
 ---
 
 ## 📲 ¿Necesitás ayuda o soporte?
@@ -48,4 +49,10 @@ Escribime directamente a mi WhatsApp y te paso la clave del `.rar` de Ventoy, m�
 
 ## 💡 Contribuir
 ¿Querés colaborar? Forkeá este repositorio o escribime con ideas. ¡Toda ayuda es bienvenida!
+
+También podés apoyar este proyecto con una donación directa a mi billetera Binance:
+
+**Billetera USDT (TRC20):** `TQxzqHUYu3GfgfphWjAZMLPhb8UrAju3kj`
+
+¡Gracias por apoyar el software libre con propósito!
 

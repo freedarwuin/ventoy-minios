@@ -29,7 +29,6 @@ Este proyecto tiene como objetivo facilitar la creación de un USB booteable uti
 
 Descargá la plantilla base:
 - [Ventoy.rar - estructura de carpetas y scripts](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
-- ![img.png](img.png)
 
 ## 📥 Instalación
 

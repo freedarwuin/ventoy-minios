@@ -2,8 +2,6 @@
 
 Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** con varias imágenes ISO personalizadas de Windows MiniOS, ideales para técnicos, usuarios avanzados o quienes deseen un sistema liviano y optimizado.
 
-📖 Para instrucciones detalladas paso a paso, consulta el archivo [INSTALL.md](INSTALL.md).
-
 ---
 
 ## 📦 Enlaces de descarga (.ISO comprimidas en .rar con contraseña)
@@ -26,11 +24,11 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 ## 📁 Plantilla base + scripts Ventoy
 
 🔧 Descargar plantilla base con estructura, carpetas y scripts:
-- [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
-
-💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
+- [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
 
 ![img.png](img.png)
+
+💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
 
 Métodos de pago disponibles:
 - Binance (USDT - TRC20)
@@ -75,4 +73,3 @@ Ofrecemos servicios como:
 `TQxzqHUYu3GfgfphWjAZMLPhb8UrAju3kj`
 
 ¡Gracias por apoyar el software libre y la comunidad DIY! 🙌
-

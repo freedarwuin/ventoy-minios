@@ -1,20 +1,18 @@
-# Ventoy Bootable USB con MiniOS
+# Ventoy + MiniOS
 
-Este proyecto tiene como objetivo facilitar la creación de un USB booteable utilizando [Ventoy](https://www.ventoy.net) y una colección de ISOs MiniOS Windows 7, 8, 10 y 11 optimizadas para performance y compatibilidad.
+Este proyecto está diseñado para ayudarte a crear un USB booteable con múltiples versiones de MiniOS (Windows 7/10/11 optimizados) utilizando Ventoy.
 
-> ⚠️ Todos los archivos `.iso` están comprimidos en `.rar` con contraseña. Más detalles abajo.
+Incluye:
+- Scripts automatizados para copiar imágenes ISO.
+- Archivos `.rar` con versiones livianas de Windows MiniOS.
+- Tema personalizado para Ventoy.
+- Documentación clara y soporte directo por WhatsApp.
 
-## 🔧 ¿Qué incluye este repositorio?
+---
 
-- Enlaces a las ISOs comprimidas.
-- Plantilla organizada con carpetas listas para copiar al USB.
-- Script para automatizar parte del proceso.
-- Instrucciones claras de instalación.
-- Oportunidad para que colabores con el proyecto.
+## 📅 Enlaces de descarga de MiniOS
 
-## 📦 Enlaces de descarga (ISOs)
-
-> Contraseña de los `.rar`: `www.dprojects.org`
+> Las siguientes ISOs están comprimidas en archivos `.rar` con contraseña: **www.dprojects.org.rar**
 
 - [MiniOS10 LTSB v2025.01 x64](https://www.mediafire.com/file/rurtlplyfu9ey52/MiniOS10_LTSB_v2025.01_x64_-_www.dprojects.org.rar/file)
 - [MiniOS10 LTSC-1809 v2025.01 x64](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file)
@@ -25,19 +23,29 @@ Este proyecto tiene como objetivo facilitar la creación de un USB booteable uti
 - [MiniOS7 Pro v2025.01 x64](https://www.mediafire.com/file/ko7jgs0vjd64cbf/MiniOS7_Pro_v2025.01_x64_-_www.dprojects.org.rar/file)
 - [MiniOS8 Pro v2025.01 x64](https://www.mediafire.com/file/je1u8f5bzgxks0d/MiniOS8_Pro_v2025.01_x64_-_www.dprojects.org.rar/file)
 
-## 📁 Plantilla y estructura
+---
 
-Descargá la plantilla base:
-- [Ventoy.rar - estructura de carpetas y scripts](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
+## 🔧 Otros recursos útiles
+
+- [Plantilla base Ventoy](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file) *(pedir clave por WhatsApp)*
+- [Driver Pack](https://www.mediafire.com/file/38lsytdfv4mlsei/Driver_pack.rar/file)
+- [Softpack 2018 Lite 18.0.1](https://www.mediafire.com/file/kaxkhlb6n6be7p3/Softpack2018_lite_18.0.1.rar/file)
+- [MobaLiveCD v2.1 - Emulador para probar tu USB sin reiniciar](https://www.mediafire.com/file/u104n5fuhs3cx2s/MobaLiveCD_v2.1.exe/file)
 ![img.png](img.png)
-## 📥 Instalación
+---
 
-Tenés todo explicado paso a paso en el archivo [`INSTALL.md`](INSTALL.md)
+## 📲 ¿Necesitás ayuda o soporte?
+Escribime directamente a mi WhatsApp y te paso la clave del `.rar` de Ventoy, más ayuda para agregar nuevas ISOs, drivers o programas personalizados.
 
-## 🤝 Colaborá
+👉 [https://wa.me/584129056224](https://wa.me/584129056224)
 
-Si querés aportar mejoras, nuevas ISOs o simplificar el proceso, sos bienvenido/a. Hacé un fork o mandá un pull request.
+---
 
-## 🛡️ Licencia
+## 🌐 Página oficial de Ventoy
+- [Descargar Ventoy última versión](https://www.ventoy.net/en/download.html)
 
-Este proyecto está bajo la licencia MIT. Más info en [`LICENSE.md`](LICENSE.md)
+---
+
+## 💡 Contribuir
+¿Querés colaborar? Forkeá este repositorio o escribime con ideas. ¡Toda ayuda es bienvenida!
+

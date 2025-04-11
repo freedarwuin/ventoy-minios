@@ -28,7 +28,7 @@ Gracias por tu interés en mejorar este proyecto. ¡Tu aporte puede ayudar a muc
 
 ```bash
 # Fork
-git clone https://github.com/TU_USUARIO/ventoy-minios.git
+git clone https://github.com/freedarwuin/ventoy-minios.git
 cd ventoy-minios
 
 # Creá una nueva rama

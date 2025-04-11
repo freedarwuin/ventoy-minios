@@ -30,6 +30,8 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 
 💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
 
+![img.png](img.png)
+
 Métodos de pago disponibles:
 - Binance (USDT - TRC20)
 - Cuentas bancarias de Venezuela: Banco de Venezuela y Banplus

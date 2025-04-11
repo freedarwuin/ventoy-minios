@@ -27,7 +27,14 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 - [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
 ![img.png](img.png)
 
-📲 Para solicitar la contraseña del archivo `.rar`, escribe por WhatsApp: **+58 412-9056224**
+💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
+
+Métodos de pago disponibles:
+- Binance (USDT - TRC20)
+- Cuentas bancarias de Venezuela: Banco de Venezuela y Banplus
+
+📲 Solicita la clave por WhatsApp y elige tu método de pago:
+👉 [Solicitar clave de la plantilla](https://wa.me/584129056224?text=Solicito%20la%20clave%20de%20la%20plantilla%20Ventoy%20y%20quiero%20conocer%20los%20m%C3%A9todos%20de%20pago)
 
 Ofrecemos servicios como:
 - Subida personalizada de nuevas imágenes
@@ -65,4 +72,3 @@ Ofrecemos servicios como:
 `TQxzqHUYu3GfgfphWjAZMLPhb8UrAju3kj`
 
 ¡Gracias por apoyar el software libre y la comunidad DIY! 🙌
-

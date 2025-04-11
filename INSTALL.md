@@ -1,31 +1,40 @@
-# Instalación de Ventoy con ISOs MiniOS
+# 📦 Instrucciones de Instalación: Ventoy + MiniOS
 
-## 1. Descarga Ventoy
+Este proyecto te permite preparar un USB booteable con **Ventoy** y versiones livianas de Windows (MiniOS) comprimidas en archivos `.rar`.
 
-Descargá la última versión desde su sitio oficial:
-👉 https://www.ventoy.net/en/download.html
+---
 
-Extraé y ejecutá `Ventoy2Disk.exe`.
+## 🔧 Pasos para instalar Ventoy y cargar MiniOS
 
-## 2. Formatea tu USB con Ventoy
+1. Descargá la última versión de Ventoy desde su sitio oficial:  
+   👉 [https://www.ventoy.net/en/download.html](https://www.ventoy.net/en/download.html)
 
-- Seleccioná la unidad USB.
-- Hacé clic en “Install”.
-- Confirmá el formateo.
+2. Instalá Ventoy en tu pendrive con el instalador correspondiente.
 
-🚨 ¡ATENCIÓN! Este paso borrará todo el contenido del pendrive.
+3. Descargá el siguiente archivo que contiene la estructura y los scripts necesarios:  
+   👉 [Mi plantilla ventoy](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
 
-## 3. Copiá la estructura de carpetas
+4. Descomprimí `ventoy.rar` en la raíz del USB donde instalaste Ventoy.
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+5. Descargá las ISOs MiniOS desde los enlaces listados en el archivo `README.md` y colocalas en la carpeta `/ISO/`.
 
-- Descargá [Ventoy.rar](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
-- Extraelo y copiá todo al USB.
+---
 
-## 4. Descargá y descomprimí las ISOs
+📌 **Nota importante:**  
+El archivo `ventoy.rar` está protegido con contraseña.
 
-- Usá los enlaces desde el README.
-- Contraseña de los `.rar`: `www.dprojects.org`
-- Extraé las ISOs en la carpeta correspondiente del USB (`/ISO/` por defecto).
+✉️ **Para obtener la clave**, escribime directamente por **WhatsApp** al:
 
-## 5. ¡Listo para bootear!
+👉 **+58 412 905 6224**
 
-Reiniciá tu equipo, booteá desde el USB y elegí la ISO deseada desde el menú de Ventoy.
+Estoy para ayudarte con lo que necesites y también ofrezco servicios personalizados como:
+
+- 🔄 Subida de nuevas imágenes ISO.
+- 📦 Paquetes de drivers offline (actualizados).
+- 💾 Programas esenciales listos para instalar.
+- 💻 Asesoría técnica para customizar tu USB booteable.
+
+---
+
+💡 Este proyecto está pensado para facilitarte la vida. Si querés colaborar o tenés ideas para mejorar, ¡sos bienvenido!

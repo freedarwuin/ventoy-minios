@@ -2,7 +2,7 @@
 
 Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** con varias imágenes ISO personalizadas de Windows MiniOS, ideales para técnicos, usuarios avanzados o quienes deseen un sistema liviano y optimizado.
 
-📖 Para instrucciones detalladas paso a paso, consulta el archivo [INSTALL.md](INSTALL.md).
+📖 Para instrucciones detalladas paso a paso, consulta el archivo [INSTALL](INSTALL.md).
 
 ---
 

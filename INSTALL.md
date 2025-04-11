@@ -17,7 +17,7 @@ Este proyecto te permite preparar un USB booteable con **Ventoy** y versiones li
 4. Descomprimí `ventoy.rar` en la raíz del USB donde instalaste Ventoy.
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
-5. Descargá las ISOs MiniOS desde los enlaces listados en el archivo `README.md` y colocalas en la carpeta `/ISO/`.
+5. Descargá las ISOs MiniOS desde los enlaces listados en el archivo [README](README.md) y colocalas en la carpeta `/ISO/`.
 
 ---
 

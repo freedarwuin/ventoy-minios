@@ -1,18 +1,14 @@
-# Ventoy + MiniOS
+# 💻 Ventoy + MiniOS Project
 
-Este proyecto está diseñado para ayudarte a crear un USB booteable con múltiples versiones de MiniOS (Windows 7/10/11 optimizados) utilizando Ventoy.
-
-Incluye:
-- Scripts automatizados para copiar imágenes ISO.
-- Archivos `.rar` con versiones livianas de Windows MiniOS.
-- Tema personalizado para Ventoy.
-- Documentación clara y soporte directo por WhatsApp.
+Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** con varias imágenes ISO personalizadas de Windows MiniOS, ideales para técnicos, usuarios avanzados o quienes deseen un sistema liviano y optimizado.
 
 ---
 
-## 📅 Enlaces de descarga de MiniOS
+## 📦 Enlaces de descarga (.ISO comprimidas en .rar con contraseña)
 
-> Las siguientes ISOs están comprimidas en archivos `.rar` con contraseña: **www.dprojects.org.rar**
+🔐 **Contraseña de los archivos .rar:** `www.dprojects.org.rar`
+
+Los enlaces son **directos por MediaFire** y **sin publicidad**:
 
 - [MiniOS10 LTSB v2025.01 x64](https://www.mediafire.com/file/rurtlplyfu9ey52/MiniOS10_LTSB_v2025.01_x64_-_www.dprojects.org.rar/file)
 - [MiniOS10 LTSC-1809 v2025.01 x64](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file)
@@ -25,34 +21,48 @@ Incluye:
 
 ---
 
-## 🔧 Otros recursos útiles
+## 📁 Plantilla base + scripts Ventoy
 
-- [Plantilla base Ventoy](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file) *(pedir clave por WhatsApp)*
+🔧 Descargar plantilla base con estructura, carpetas y scripts:
+- [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/bbrwcb3qwfa9xvq/ventoy.rar/file)
 ![img.png](img.png)
+
+📲 Para solicitar la contraseña del archivo `.rar`, escribe por WhatsApp: **+58 412-9056224**
+
+Ofrecemos servicios como:
+- Subida personalizada de nuevas imágenes
+- Integración de drivers
+- Packs de programas portables
+- Mantenimiento y configuración personalizada
+
+---
+
+## 📂 Recursos adicionales útiles
+
 - [Driver Pack](https://www.mediafire.com/file/38lsytdfv4mlsei/Driver_pack.rar/file)
-- [Softpack 2018 Lite 18.0.1](https://www.mediafire.com/file/kaxkhlb6n6be7p3/Softpack2018_lite_18.0.1.rar/file)
-- [MobaLiveCD v2.1 - Emulador para probar tu USB sin reiniciar](https://www.mediafire.com/file/u104n5fuhs3cx2s/MobaLiveCD_v2.1.exe/file)
+- [SoftPack 2018 Lite](https://www.mediafire.com/file/kaxkhlb6n6be7p3/Softpack2018_lite_18.0.1.rar/file)
+- [MobaLiveCD v2.1 (emulador para probar ISOs)](https://www.mediafire.com/file/u104n5fuhs3cx2s/MobaLiveCD_v2.1.exe/file)
 
 ---
 
-## 📲 ¿Necesitás ayuda o soporte?
-Escribime directamente a mi WhatsApp y te paso la clave del `.rar` de Ventoy, más ayuda para agregar nuevas ISOs, drivers o programas personalizados.
+## 🚀 Cómo empezar
 
-👉 [https://wa.me/584129056224](https://wa.me/584129056224)
+1. Descargar la última versión de Ventoy desde su web oficial:  
+   🔗 https://www.ventoy.net/en/download.html
+
+2. Instalar Ventoy en una unidad USB.
+3. Extraer el contenido de la plantilla `Ventoy.rar` en la raíz de la USB.
+4. Copiar tus ISOs descomprimidas en la carpeta correspondiente.
+5. ¡Listo! Bootear y disfrutar del menú personalizado.
 
 ---
 
-## 🌐 Página oficial de Ventoy
-- [Descargar Ventoy última versión](https://www.ventoy.net/en/download.html)
+## 🤝 Contribuir
 
----
+¿Querés apoyar este proyecto y fomentar más contenido gratuito, optimizado y sin publicidad?
 
-## 💡 Contribuir
-¿Querés colaborar? Forkeá este repositorio o escribime con ideas. ¡Toda ayuda es bienvenida!
+💸 **Aceptamos donaciones vía Binance (USDT - TRC20):**  
+`TQxzqHUYu3GfgfphWjAZMLPhb8UrAju3kj`
 
-También podés apoyar este proyecto con una donación directa a mi billetera Binance:
-
-**Billetera USDT (TRC20):** `TQxzqHUYu3GfgfphWjAZMLPhb8UrAju3kj`
-
-¡Gracias por apoyar el software libre con propósito!
+¡Gracias por apoyar el software libre y la comunidad DIY! 🙌
 

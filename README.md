@@ -34,19 +34,19 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 | Versión | Peso | Enlace de descarga |
 |--------|------|--------------------|
 | MiniOS10 LTSB v2025.01 x64 | 1.58 GB | [Descargar](https://ouo.io/IcUMyde) |
-| MiniOS10 LTSC-1809 v2025.01 x64 | 1.80 GB | [Descargar](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS10 LTSC-21H2 v2025.01 x64 | 1.88 GB | [Descargar](https://www.mediafire.com/file/wl8tc1o1lpetngb/MiniOS10_LTSC-21H2_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS10 Pro v2025.01 x64 | 1.95 GB | [Descargar](https://www.mediafire.com/file/od2rqng1guazmtm/MiniOS10_Pro_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS11 LTSC v2025.01 x64 | 2.10 GB | [Descargar](https://www.mediafire.com/file/pv1w475duj616ah/MiniOS11_LTSC_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS11 Pro v2025.01 x64 | 2.18 GB | [Descargar](https://www.mediafire.com/file/ucnzqj9j1bmer7u/MiniOS11_Pro_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS7 Pro v2025.01 x64 | 1.45 GB | [Descargar](https://www.mediafire.com/file/ko7jgs0vjd64cbf/MiniOS7_Pro_v2025.01_x64_-_www.dprojects.org.rar/file) |
-| MiniOS8 Pro v2025.01 x64 | 1.53 GB | [Descargar](https://www.mediafire.com/file/je1u8f5bzgxks0d/MiniOS8_Pro_v2025.01_x64_-_www.dprojects.org.rar/file) |
+| MiniOS10 LTSC-1809 v2025.01 x64 | 1.80 GB | [Descargar](https://ouo.io/A8EgYn) |
+| MiniOS10 LTSC-21H2 v2025.01 x64 | 1.88 GB | [Descargar](https://ouo.io/iYoi2bG) |
+| MiniOS10 Pro v2025.01 x64 | 1.95 GB | [Descargar](https://ouo.io/6o0vzKV) |
+| MiniOS11 LTSC v2025.01 x64 | 2.10 GB | [Descargar](https://ouo.io/FuNYtQ) |
+| MiniOS11 Pro v2025.01 x64 | 2.18 GB | [Descargar](https://ouo.io/GhlX9p) |
+| MiniOS7 Pro v2025.01 x64 | 1.45 GB | [Descargar](https://ouo.io/6BIwY0) |
+| MiniOS8 Pro v2025.01 x64 | 1.53 GB | [Descargar](https://ouo.io/xBpNS0) |
 
 ### 🎮 OptiOS - Optimizado para gaming
 
 | Versión | Peso | Enlace de descarga |
 |--------|------|--------------------|
-| OptiOS 11 24H2 x64 | 2.33 GB | [Descargar](https://www.mediafire.com/file/ajfh3oklpt77ael/OptiOS_11_24H2_x64.iso/file) |
+| OptiOS 11 24H2 x64 | 2.33 GB | [Descargar](https://ouo.io/LrCYSz) |
 | OptiOS 7 x64 | 1.61 GB | [Descargar](https://www.mediafire.com/file/7ymoajtoesbbwg7/OptiOS_7_x64.iso/file) |
 
 📌 **Si alguna ISO fue actualizada recientemente o quieres una nueva edición, pregunta directamente por las últimas versiones.** ¡Siempre hay algo nuevo en camino!
@@ -76,9 +76,9 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 
 ## 📂 Recursos adicionales útiles
 
-- [Driver Pack](https://www.mediafire.com/file/38lsytdfv4mlsei/Driver_pack.rar/file)
-- [SoftPack 2018 Lite](https://www.mediafire.com/file/kaxkhlb6n6be7p3/Softpack2018_lite_18.0.1.rar/file)
-- [MobaLiveCD v2.1 (emulador para probar ISOs)](https://www.mediafire.com/file/u104n5fuhs3cx2s/MobaLiveCD_v2.1.exe/file)
+- [Driver Pack](https://ouo.io/lxWLxTP)
+- [SoftPack 2018 Lite](https://ouo.io/efxgc5)
+- [MobaLiveCD v2.1 (emulador para probar ISOs)](https://ouo.io/iEVOzs)
 
 ---
 

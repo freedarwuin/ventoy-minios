@@ -13,7 +13,6 @@ Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** c
 - [Plantilla base + Scripts Ventoy](#-plantilla-base--scripts-ventoy)
 - [Recursos adicionales útiles](#-recursos-adicionales-útiles)
 - [Cómo empezar](#-cómo-empezar)
-- [Opciones de descarga y apoyo](#-opciones-de-descarga-y-apoyo)
 - [Contribuir y apoyar el proyecto](#-contribuir-y-apoyar-el-proyecto)
 - [Licencia](#-licencia)
 
@@ -32,23 +31,29 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 
 ### 🪟 MiniOS - Versiones disponibles
 
-| Versión | Peso | Enlace de descarga |
-|--------|------|--------------------|
-| MiniOS10 LTSB v2025.01 x64 | 1.58 GB | [Descargar](https://ouo.io/IcUMyde) |
-| MiniOS10 LTSC-1809 v2025.01 x64 | 1.80 GB | [Descargar](https://ouo.io/A8EgYn) |
-| MiniOS10 LTSC-21H2 v2025.01 x64 | 1.88 GB | [Descargar](https://ouo.io/iYoi2bG) |
-| MiniOS10 Pro v2025.01 x64 | 1.95 GB | [Descargar](https://ouo.io/6o0vzKV) |
-| MiniOS11 LTSC v2025.01 x64 | 2.10 GB | [Descargar](https://ouo.io/FuNYtQ) |
-| MiniOS11 Pro v2025.01 x64 | 2.18 GB | [Descargar](https://ouo.io/GhlX9p) |
-| MiniOS7 Pro v2025.01 x64 | 1.45 GB | [Descargar](https://ouo.io/6BIwY0) |
-| MiniOS8 Pro v2025.01 x64 | 1.53 GB | [Descargar](https://ouo.io/xBpNS0) |
+> 🧠 **¿Tienes una Canaimita o una PC de bajos recursos?**  
+> Te recomendamos estas versiones ligeras:  
+> 🟢 **MiniOS7 Pro**, **MiniOS8 Pro**, o **MiniOS10 LTSB**  
+> Funcionan bien con 1–2 GB de RAM y poco espacio en disco.  
+> ¡Ideales para revivir equipos antiguos! ⚙️
+
+| Versión | Peso | Requisitos mínimos recomendados | Enlace de descarga |
+|--------|------|-------------------------------|--------------------|
+| MiniOS7 Pro v2025.01 x64 | 1.45 GB | ✅ 1 GB RAM · 10 GB disco | [Descargar](https://ouo.io/6BIwY0) |
+| MiniOS8 Pro v2025.01 x64 | 1.53 GB | ✅ 1.5 GB RAM · 12 GB disco | [Descargar](https://ouo.io/xBpNS0) |
+| MiniOS10 LTSB v2025.01 x64 | 1.58 GB | ✅ 2 GB RAM · 16 GB disco | [Descargar](https://ouo.io/IcUMyde) |
+| MiniOS10 LTSC-1809 v2025.01 x64 | 1.80 GB | ⚠️ 2 GB RAM · 20 GB disco | [Descargar](https://ouo.io/A8EgYn) |
+| MiniOS10 LTSC-21H2 v2025.01 x64 | 1.88 GB | ⚠️ 2 GB RAM · 20 GB disco | [Descargar](https://ouo.io/iYoi2bG) |
+| MiniOS10 Pro v2025.01 x64 | 1.95 GB | ⚠️ 3 GB RAM · 25 GB disco | [Descargar](https://ouo.io/6o0vzKV) |
+| MiniOS11 LTSC v2025.01 x64 | 2.10 GB | ❗ 4 GB RAM · 30 GB disco | [Descargar](https://ouo.io/FuNYtQ) |
+| MiniOS11 Pro v2025.01 x64 | 2.18 GB | ❗ 4 GB RAM · 32 GB disco | [Descargar](https://ouo.io/GhlX9p) |
 
 ### 🎮 OptiOS - Optimizado para gaming
 
-| Versión | Peso | Enlace de descarga |
-|--------|------|--------------------|
-| OptiOS 11 24H2 x64 | 2.33 GB | [Descargar](https://ouo.io/LrCYSz) |
-| OptiOS 7 x64 | 1.61 GB | [Descargar](https://ouo.io/FPa1E9) |
+| Versión | Peso | Requisitos mínimos recomendados | Enlace de descarga |
+|--------|------|-------------------------------|--------------------|
+| OptiOS 11 24H2 x64 | 2.33 GB | ❗ 4 GB RAM · 35 GB disco | [Descargar](https://ouo.io/LrCYSz) |
+| OptiOS 7 x64 | 1.61 GB | ✅ 2 GB RAM · 16 GB disco | [Descargar](https://www.mediafire.com/file/7ymoajtoesbbwg7/OptiOS_7_x64.iso/file) |
 
 📌 **Si alguna ISO fue actualizada recientemente o quieres una nueva edición, pregunta directamente por las últimas versiones.** ¡Siempre hay algo nuevo en camino!
 
@@ -90,22 +95,6 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 3. Extrae la plantilla `.rar` en la raíz.
 4. Copia las ISOs descomprimidas en sus carpetas.
 5. ¡Listo! Tu USB ahora es una herramienta multi-boot profesional.
-
----
-
-## 💾 Opciones de descarga y apoyo
-
-Para acceder a los archivos del proyecto, podés elegir entre:
-
-✅ **Versión directa (sin publicidad)**  
-Exclusiva para donadores, colaboradores o quienes deseen apoyar activamente el proyecto.  
-**Solicítala por WhatsApp o Discord.**
-
-🔐 **Archivos comprimidos en .rar con contraseña:**  
-Contraseña disponible bajo contribución simbólica. Incluye estructura optimizada y scripts listos para usar.
-
-🧠 **¿Querés apoyar el proyecto?**  
-Tu colaboración ayuda a mantener y mejorar este trabajo. Podés donar, compartir o brindar feedback.
 
 ---
 

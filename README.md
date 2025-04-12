@@ -48,7 +48,7 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 | Versión | Peso | Enlace de descarga |
 |--------|------|--------------------|
 | OptiOS 11 24H2 x64 | 2.33 GB | [Descargar](https://ouo.io/LrCYSz) |
-| OptiOS 7 x64 | 1.61 GB | [Descargar](https://www.mediafire.com/file/7ymoajtoesbbwg7/OptiOS_7_x64.iso/file) |
+| OptiOS 7 x64 | 1.61 GB | [Descargar](https://ouo.io/FPa1E9) |
 
 📌 **Si alguna ISO fue actualizada recientemente o quieres una nueva edición, pregunta directamente por las últimas versiones.** ¡Siempre hay algo nuevo en camino!
 

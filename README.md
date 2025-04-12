@@ -2,7 +2,7 @@
 
 Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** con varias imágenes ISO personalizadas de Windows MiniOS, ideales para técnicos, usuarios avanzados o quienes deseen un sistema liviano y optimizado.
 
-📖 Para instrucciones detalladas paso a paso, consulta el archivo [INSTALL](INSTALL.md).
+📖 Para instrucciones detalladas paso a paso, consulta el archivo [INSTALL.md](INSTALL.md).
 
 ---
 
@@ -11,6 +11,8 @@ Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** c
 🔐 **Contraseña de los archivos .rar:** `www.dprojects.org.rar`
 
 Los enlaces son **directos por MediaFire** y **sin publicidad**:
+
+### 🪟 MiniOS - Versiones disponibles
 
 - [MiniOS10 LTSB v2025.01 x64](https://www.mediafire.com/file/rurtlplyfu9ey52/MiniOS10_LTSB_v2025.01_x64_-_www.dprojects.org.rar/file)
 - [MiniOS10 LTSC-1809 v2025.01 x64](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file)
@@ -21,6 +23,11 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 - [MiniOS7 Pro v2025.01 x64](https://www.mediafire.com/file/ko7jgs0vjd64cbf/MiniOS7_Pro_v2025.01_x64_-_www.dprojects.org.rar/file)
 - [MiniOS8 Pro v2025.01 x64](https://www.mediafire.com/file/je1u8f5bzgxks0d/MiniOS8_Pro_v2025.01_x64_-_www.dprojects.org.rar/file)
 
+### 🎮 OptiOS - Optimizado para gaming
+
+- [OptiOS 11 24H2 x64](https://www.mediafire.com/file/ajfh3oklpt77ael/OptiOS_11_24H2_x64.iso/file)
+- [OptiOS 7 x64](https://www.mediafire.com/file/7ymoajtoesbbwg7/OptiOS_7_x64.iso/file)
+
 ---
 
 ## 📁 Plantilla base + scripts Ventoy
@@ -28,9 +35,9 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 🔧 Descargar plantilla base con estructura, carpetas y scripts:
 - [Ventoy.rar (pedir contraseña vía WhatsApp)](https://www.mediafire.com/file/8qlhypkpnoev9uo/ventoy.rar/file)
 
-💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
-
 ![img.png](img.png)
+
+💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
 
 Métodos de pago disponibles:
 - Binance (USDT - TRC20)

@@ -13,6 +13,7 @@ Este repositorio ofrece una guía completa y recursos para instalar **Ventoy** c
 - [Plantilla base + Scripts Ventoy](#-plantilla-base--scripts-ventoy)
 - [Recursos adicionales útiles](#-recursos-adicionales-útiles)
 - [Cómo empezar](#-cómo-empezar)
+- [Opciones de descarga y apoyo](#-opciones-de-descarga-y-apoyo)
 - [Contribuir y apoyar el proyecto](#-contribuir-y-apoyar-el-proyecto)
 - [Licencia](#-licencia)
 
@@ -89,6 +90,22 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 3. Extrae la plantilla `.rar` en la raíz.
 4. Copia las ISOs descomprimidas en sus carpetas.
 5. ¡Listo! Tu USB ahora es una herramienta multi-boot profesional.
+
+---
+
+## 💾 Opciones de descarga y apoyo
+
+Para acceder a los archivos del proyecto, podés elegir entre:
+
+✅ **Versión directa (sin publicidad)**  
+Exclusiva para donadores, colaboradores o quienes deseen apoyar activamente el proyecto.  
+**Solicítala por WhatsApp o Discord.**
+
+🔐 **Archivos comprimidos en .rar con contraseña:**  
+Contraseña disponible bajo contribución simbólica. Incluye estructura optimizada y scripts listos para usar.
+
+🧠 **¿Querés apoyar el proyecto?**  
+Tu colaboración ayuda a mantener y mejorar este trabajo. Podés donar, compartir o brindar feedback.
 
 ---
 

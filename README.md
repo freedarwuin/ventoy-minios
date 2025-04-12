@@ -33,7 +33,7 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 
 | Versión | Peso | Enlace de descarga |
 |--------|------|--------------------|
-| MiniOS10 LTSB v2025.01 x64 | 1.58 GB | [Descargar](https://www.mediafire.com/file/rurtlplyfu9ey52/MiniOS10_LTSB_v2025.01_x64_-_www.dprojects.org.rar/file) |
+| MiniOS10 LTSB v2025.01 x64 | 1.58 GB | [Descargar](https://ouo.io/IcUMyde) |
 | MiniOS10 LTSC-1809 v2025.01 x64 | 1.80 GB | [Descargar](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file) |
 | MiniOS10 LTSC-21H2 v2025.01 x64 | 1.88 GB | [Descargar](https://www.mediafire.com/file/wl8tc1o1lpetngb/MiniOS10_LTSC-21H2_v2025.01_x64_-_www.dprojects.org.rar/file) |
 | MiniOS10 Pro v2025.01 x64 | 1.95 GB | [Descargar](https://www.mediafire.com/file/od2rqng1guazmtm/MiniOS10_Pro_v2025.01_x64_-_www.dprojects.org.rar/file) |

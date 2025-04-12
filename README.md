@@ -36,9 +36,9 @@ Si tienes un equipo con **1GB de RAM** o similar (como las Canaimitas con proces
 
 ### **Recomendaciones de sistemas operativos**:
 
-- **MiniOS7 Pro v2025.01 x64**: Ideal para equipos con 2GB de RAM, recomendado para rendimiento eficiente en procesadores de gama baja.
-- **OptiOS 7 x64**: Optimizado para maximizar el rendimiento en equipos de bajo rendimiento, con una gestión eficiente de los recursos.
-- **MiniOS10 LTSC-1809 v2025.01 x64**: Si buscas una versión de Windows 10 ligera pero aún con características modernas, ideal para sistemas con recursos limitados.
+- **[MiniOS7 Pro v2025.01 x64](https://www.mediafire.com/file/ko7jgs0vjd64cbf/MiniOS7_Pro_v2025.01_x64_-_www.dprojects.org.rar/file)**: Ideal para equipos con 2GB de RAM, recomendado para rendimiento eficiente en procesadores de gama baja.
+- **[OptiOS 7 x64](https://www.mediafire.com/file/7ymoajtoesbbwg7/OptiOS_7_x64.iso/file)**: Optimizado para maximizar el rendimiento en equipos de bajo rendimiento, con una gestión eficiente de los recursos.
+- **[MiniOS10 LTSC-1809 v2025.01 x64](https://www.mediafire.com/file/0pe8c12yepfglz8/MiniOS10_LTSC-1809_v2025.01_x64_-_www.dprojects.org.rar/file)**: Si buscas una versión de Windows 10 ligera pero aún con características modernas, ideal para sistemas con recursos limitados.
 
 ---
 

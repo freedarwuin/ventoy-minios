@@ -30,6 +30,18 @@ Los enlaces son **directos por MediaFire** y **sin publicidad**:
 
 ---
 
+## 🖥️ **Recomendación para PC de muy bajos recursos (como Canaima)**
+
+Si tienes un equipo con **1GB de RAM** o similar (como las Canaimitas con procesadores Intel Atom y similares), te recomendamos las siguientes versiones optimizadas:
+
+### **Recomendaciones de sistemas operativos**:
+
+- **MiniOS7 Pro v2025.01 x64**: Ideal para equipos con 2GB de RAM, recomendado para rendimiento eficiente en procesadores de gama baja.
+- **OptiOS 7 x64**: Optimizado para maximizar el rendimiento en equipos de bajo rendimiento, con una gestión eficiente de los recursos.
+- **MiniOS10 LTSC-1809 v2025.01 x64**: Si buscas una versión de Windows 10 ligera pero aún con características modernas, ideal para sistemas con recursos limitados.
+
+---
+
 ## 📁 Plantilla base + scripts Ventoy
 
 🔧 Descargar plantilla base con estructura, carpetas y scripts:

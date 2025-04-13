@@ -27,7 +27,7 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 ## 📦 Enlaces de descarga (.ISO comprimidas en .rar con contraseña)
 
 🔐 **Contraseña de los archivos .rar:** `www.dprojects.org.rar`  
-📁 Todos los archivos están alojados en **MediaFire** y son **directos sin publicidad**.
+<!---📁 Todos los archivos están alojados en **MediaFire** y son **directos sin publicidad**.--->
 
 ### 🪟 MiniOS - Versiones disponibles
 

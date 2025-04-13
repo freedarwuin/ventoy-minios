@@ -66,6 +66,8 @@ El proyecto **Ventoy + MiniOS** busca ofrecer una alternativa ligera y eficiente
 
 💲 **La contraseña del archivo `.rar` tiene un costo de $5 USD.**
 
+![img.png](img.png)
+
 📂 Incluye carpetas listas para organizar:
 - `MiniOS/`
 - `OptiOS/`

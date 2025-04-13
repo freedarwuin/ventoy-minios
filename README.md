@@ -113,7 +113,7 @@ Este proyecto se sostiene gracias al aporte de personas como tú. Si te ha servi
 
 **Contacto directo:**  
 📱 WhatsApp: [+58 412-9056224](https://wa.me/584129056224)  
-💬 Discord: `freedarwuin`
+💬 Discord: `https://discord.gg/qCFVWyEsKx`
 
 _"Tu colaboración es la chispa que mantiene este fuego encendido."_ 🔥
 
